@@ -2,7 +2,7 @@ import os
 from multiprocessing import Process
 
 def webserver():
-    os.system("python3 ./webserver.py")     
+    os.system("python ./webserver.py")     
 def ssh():
     os.system("python ./ssh.py") 
 
