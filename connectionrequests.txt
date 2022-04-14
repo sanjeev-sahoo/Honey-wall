@@ -79,4 +79,15 @@ Headers: <Request 'http://10.13.37.7:5000/creds' [GET]>Body: b''user : d0f3e8633
 Headers: <Request 'http://10.13.37.7:5000/creds' [GET]>Body: b''user : be0f2494220a46f3bc819c725bdd90d2
 Headers: <Request 'http://10.13.37.7:5000/submit' [GET]>Body: b''user : c348cb6f553a4f21af0d3b72316cfe29
 Headers: <Request 'http://10.13.37.7:5000/' [GET]>Body: b''user : 4f316b17d7eb47f5a54f1c39f8a0e5e7
-Headers: <Request 'http://10.13.37.7:5000/creds' [GET]>Body: b''
+Headers: <Request 'http://10.13.37.7:5000/creds' [GET]>Body: b''user : 2411237f816d4b1b884fa3ef74192fbf
+Headers: <Request 'http://127.0.0.1:5000/' [GET]>Body: b''user : 7c583780ff2441c5865074ecbe077c78
+Headers: <Request 'http://127.0.0.1:5000/favicon.ico' [GET]>Body: b''user : ae034551b0aa463daa27f74bacf41dca
+Headers: <Request 'http://127.0.0.1:5000/creds' [GET]>Body: b''user : b2530e827ca644d6b8914d6c0fc2835b
+Headers: <Request 'http://127.0.0.1:5000/creds' [GET]>Body: b''user : 18349e91c66a4baeaa4bf1067316050d
+Headers: <Request 'http://localhost:5000/creds' [GET]>Body: b'{\r\n            "email": "johndoe@gmail.com",\r\n            "fname": "john",\r\n            "libaccountno": "jd456788",\r\n            "lname": "doe",\r\n            "membershipexp": "2023-01-01"\r\n}'user : 1e95b4bb359b43668889f8ad3deb96a7
+Headers: <Request 'http://127.0.0.1:5000/creds' [GET]>Body: b''user : 2a0ade1d7c164832a5c794f60b164253
+Headers: <Request 'http://127.0.0.1:5000/submit' [GET]>Body: b''user : deedf7ad27ef498793f3b8a0985b6560
+Headers: <Request 'http://127.0.0.1:5000/creds' [GET]>Body: b''user : c61edd70d28444a59942d042da1555b0
+Headers: <Request 'http://127.0.0.1:5000/submit' [GET]>Body: b''user : 21fa2131a4e34de49946e5fbfd0f23c2
+Headers: <Request 'http://127.0.0.1:5000/creds' [GET]>Body: b''user : e79505a95dba442f9656e5445df8f5e4
+Headers: <Request 'http://127.0.0.1:5000/submit' [GET]>Body: b''
