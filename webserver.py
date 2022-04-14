@@ -34,7 +34,8 @@ def index():
 def creds():
     f = open("data.json", "r")
     return jsonify(f.read())
-
+    
+'''
 @app.route('/screenshot/')
 def my_link():
     user = uuid.uuid4().hex
@@ -48,6 +49,7 @@ def my_link():
     #print(os.listdir(directory)) 
     filename = 'Intruder '+user+'.jpg'
     cv2.imwrite(filename, image)
+'''
 
 @app.route('/submit')
 def submit():
