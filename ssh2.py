@@ -11,6 +11,9 @@ HOST_KEY = paramiko.RSAKey(filename='keys/private.key')
 
 
 def argument_parser():
+    """
+    :return:
+    """
     ap = argparse.ArgumentParser()
     ap.add_argument("-p", "--port", type=str, default=22,
                     help="Please enter a valid port")
@@ -48,8 +51,8 @@ class SSHoneywall(paramiko.ServerInterface):
             return paramiko.AUTH_SUCCESSFUL
         return paramiko.AUTH_FAILED
 
-    def get_allowed_auths(self, username):
-        return 'password'
+    # def get_allowed_auths(self, username):
+    #     return 'password'
 
     def check_channel_shell_request(self, channel):
         self.event.set()
@@ -60,9 +63,8 @@ class SSHoneywall(paramiko.ServerInterface):
 
 
 def sshconnection(client, addr):
-    log.write("Connection from: " + addr[0] + "\n")
+    log.write("\n\nConnection from: " + addr[0] + "\n")
     subprocess.call(['sudo', './sshblock.sh', addr[0]])
-    print('Blocked ip : ' + addr[0])
     try:
         transport = paramiko.Transport(client)
         transport.add_server_key(HOST_KEY)
@@ -108,7 +110,9 @@ def sshconnection(client, addr):
                 else:
                     attacker_interac(command, channel)
 
-        except Exception:
+        except Exception as err:
+            print('!!! Exception: {}: {}'.format(err._class_, err))
+            traceback.print_exc()
             try:
                 transport.close()
             except Exception:
@@ -131,18 +135,19 @@ def startup(port):
         ssh_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         ssh_socket.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
         ssh_socket.bind(("", port))
-    except Exception:
+    except Exception as e:
+        log.write(f"Error:- {e}")
+        # traceback.print_exc()
         sys.exit(1)
 
     while True:
         try:
             ssh_socket.listen(80)
-            print("Waiting...")
-            attacker, ipaddr = ssh_socket.accept()
+            attacker, ip_add = ssh_socket.accept()
         except Exception as e:
             log.write(f"Error:- {e}")
             # traceback.print_exc()
-        final_thread = threading.Thread(target=sshconnection, args=(attacker, ipaddr))
+        final_thread = threading.Thread(target=sshconnection, args=(attacker, ip_add))
         final_thread.start()
         threads.append(final_thread)
 
