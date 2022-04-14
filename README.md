@@ -16,3 +16,6 @@ In case you have issues and the project is not running and giving error related 
 then run the below command -
 
 sudo apt install python-paramiko
+
+To kill the other processes running on the ports:
+./kill-process.sh 
