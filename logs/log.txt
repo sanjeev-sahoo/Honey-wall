@@ -1,0 +1,967 @@
+
+
+Connection from: 10.13.37.6
+$ ls
+pw.txt
+$ exit
+
+
+Connection from: 10.13.37.6
+
+
+Connection from: 10.13.37.6
+
+
+Connection from: 10.13.37.6
+$ ls
+pw.txt
+$ exit
+
+
+Connection from: 10.13.37.6
+$ exit
+
+
+Connection from: 10.13.37.6
+
+
+Connection from: 10.13.37.6
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.6
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+$ ls
+pw.txt
+$ exit
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+$ quit
+
+
+Connection from: 10.13.37.6
+
+
+Connection from: 10.13.37.6
+$ ls
+pw.txt
+$ quit
+
+
+Connection from: 10.13.37.100
+$ ls
+pw.txt
+$ quit
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+
+
+Connection from: 10.13.37.100
+$ quit
+
+
+Connection from: 10.13.37.100
+$ whoami
+
+
+Connection from: 10.13.37.100
+$ ls
+
+
+Connection from: 10.13.37.100
+$ ls
+Desktop   Downloads   text.txt
+$ whoami
+root
+$ ps
+ps: command not found
+$ exit
+
+
+Connection from: 10.13.37.100
+$ whoami
+root
+$ ls
+Desktop   Downloads   text.txt
+$ pwd
+/root
+$ exoi[C[C[C[C[C[C[C[C[C[C[C
+exoi[C[C[C[C[C[C[C[C[C[C[C: command not found
+$ cat
+cat: command not found
+$ exit
+10.13.37.100 execution steps: 
+10.13.37.100 execution steps: 
+10.13.37.100 execution steps: 
+10.13.37.100 execution steps: 
+10.13.37.100 execution steps: 
+10.13.37.100 execution steps: 
+10.13.37.100 execution steps: 
+10.13.37.100 execution steps: 
+10.13.37.100 execution steps: 
+10.13.37.100 execution steps: 
+10.13.37.100 execution steps: 
+10.13.37.100 execution steps: 
+$ exit
+exit: command not found
+$ quit
+quit: command not found
+$ ls
+ls: command not found
+$ q
+q: command not found
+$ q
+q: command not found
+10.13.37.100 execution steps: 
+10.13.37.100 execution steps: 
+10.13.37.100 execution steps: 
+10.13.37.100 execution steps: 
+$ ls
+Desktop   Downloads   text.txt
+$ cm
+cm: command not found
+$ pwd
+/root

@@ -1,0 +1,138 @@
+<html>
+
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.min.js"></script>
+    <!-- <script type="text/javascript" src="data.json"></script> -->
+
+<body>
+
+    <style>
+        body {
+
+            /* background-image:url("rent.jpg"); */
+
+            background-size: 400px 500px;
+            opacity: 0.9;
+            background-position: left;
+            background-repeat: no-repeat;
+            justify-content: center;
+            font-family: 'Dosis', sans-serif;
+            border-radius: 15px
+        }
+
+        @import url('https://fonts.googleapis.com/css?family=Dosis');
+
+        .container {
+            z-index: 1;
+            background-color: whitesmoke;
+            display: inline-block;
+            border-radius: 20px;
+            margin-left: 35vw;
+            margin-top: 1vh;
+            box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
+            height: 80vh;
+            width: 30vw;
+
+        }
+
+        .container input {
+            width: 20vw;
+            position: relative;
+            height: 9vh;
+            border-radius: 15px;
+            box-shadow: 0 6px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
+            border: none;
+            outline: none;
+            padding: 20px;
+            display: block;
+            margin: 7vh 0vw 0vw 5vw;
+            text-align: center;
+
+
+        }
+
+        .container #clickButton {
+            background: linear-gradient(to right, #6666ff 0%, #ff00ff 100%);
+            border-radius: 25px;
+            color: whitesmoke;
+            font-size: 1.0em;
+            cursor: pointer;
+        }
+    </style>
+
+
+
+</body>
+
+<div class="container">
+
+    <h1 style="color:Fuchsia;font-size:2.0em;text-align:center;padding:10px;margin:4vh 0 0 0;">Login</h1>
+
+    <form id="form1" onsubmit="submitcall(event);">
+
+
+        <input type="text" name="username" id="name" placeholder="Username..." autocomplete="off">
+
+        <input type="password" name="psw" id="pass" placeholder="Password....">
+
+        <input type="submit" value="Submit" id="clickButton">
+    </form>
+    <script>
+
+        var login_attempts = 3;
+        async function getData() {
+            const response = await fetch('/creds');
+            return response.json();
+        }
+
+
+        async function submitcall(event) {
+            event.preventDefault();
+            let username = "";
+            let password = "";
+            let data = await getData();
+            data = JSON.parse(data);
+            username = data.username;
+            password = data.password;
+            let name = document.getElementById("name").value;
+            let pass = document.getElementById("pass").value;
+
+            if (name == username && pass == password) {
+                window.alert("Please enter the correct password:");
+                document.getElementById("name").value = "";
+                document.getElementById("pass").value = "";
+            }
+            else {
+                if (login_attempts == 0) {
+                    fetch("/submit");
+                    window.alert("No Login Attempts Available");
+                    // window.open('index1.html');
+                    setInterval(function () {
+                        document.getElementById("clickButton").click();
+                    }, 5000);
+
+
+                }
+                else {
+                    login_attempts = login_attempts - 1;
+                    if (login_attempts == 0) {
+                        fetch("/submit")
+                        document.getElementById("name").disabled = true;
+                        document.getElementById("pass").disabled = true;
+                        document.getElementById("form1").disabled = true;
+                    }
+                }
+            }
+
+            return false;
+        }
+
+    </script>
+
+
+</div>
+</head>
+
+</html>
