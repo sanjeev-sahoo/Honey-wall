@@ -12,9 +12,14 @@ Change port to use 2268
 sudo service ssh restart
 ```
 
+## Free the ports
+```bash
+sudo kill-script.sh
+```
+
 ## Run
 
 ```bash
-chmod +x *.sh
 sudo ./server.sh
 ```
+
