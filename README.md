@@ -1,4 +1,9 @@
-Make sure:
+vi /etc/ssh/sshd_config
+
+Change port to 2268
+
+sudo service ssh restart
+
 Please make sure all the files have the right permissions
 
 chmod +x (filename)
