@@ -1,26 +1,20 @@
+# Honey-wall
+
+Honey-wall is an HTTP and SSH-based low interaction honeypot.
+
+## Prerequisites
+
+Move the ssh to use port 2268
+
+```bash
 vi /etc/ssh/sshd_config
-
-Change port to 2268
-
+Change port to use 2268
 sudo service ssh restart
+```
 
-Please make sure all the files have the right permissions
+## Run
 
-chmod +x (filename)
-
-You can run chmod +x *.sh
-
-for it to run via sudo
-
-sudo su
-
-sh server.sh
-
-In case you have issues and the project is not running and giving error related to paramiko and requests
-
-then run the below command -
-
-sudo apt install python-paramiko
-
-To kill the other processes running on the ports:
-./kill-process.sh 
+```bash
+chmod +x *.sh
+sudo ./server.sh
+```
