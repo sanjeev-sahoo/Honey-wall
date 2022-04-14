@@ -15,7 +15,7 @@ sudo service ssh restart
 ## Free the ports
 ```bash
 chmod +x *.sh
-sudo kill-script.sh
+sudo ./kill-script.sh
 ```
 
 ## Run
